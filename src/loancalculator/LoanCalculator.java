@@ -61,7 +61,7 @@ public class LoanCalculator extends Application {
         gridPane.add(tfNumberOfYears, 1, 1);                            // Add the Number of Years textbox to the gridpane
         gridPane.add(new Label("Loan Amount:"), 0, 2);                  // Add the Loan Amount label to the gridpane
         gridPane.add(tfLoanAmount, 1, 2);                               // Add the Loan Amount textbox to the gridpane
-        gridPane.add(new Label("Monthly Paynent:"), 0, 3);              // Add the Monthly Payment label to the gridpane
+        gridPane.add(new Label("Monthly Payment:"), 0, 3);              // Add the Monthly Payment label to the gridpane
         gridPane.add(tfMonthlyPayment, 1, 3);                           // Add the Monthly Payment textbox to the gridpane
         gridPane.add(new Label("Total Payment:"), 0, 4);                // Add the Total Payment label to the gridpane
         gridPane.add(tfTotalPayment, 1, 4);                             // Add the Total Payment textbox to the gridpane
