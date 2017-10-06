@@ -89,7 +89,7 @@ public class LoanCalculator extends Application {
     }
     
     /**
-     * 
+     * Calculate and display the loan repayment information
      */
 
     private void calculateLoanPayment() {
